@@ -1,1 +1,1 @@
-This is just a bit of text to help learn Git
+This has been written whilst on the second branch of my story file
